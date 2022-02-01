@@ -1,0 +1,19 @@
+{
+  "name": "npm_sf_practice",
+  "version": "1.0.0",
+  "description": "test_repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onlysk1ll/npm_sf_practice.git"
+  },
+  "author": "onlysk1ll",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onlysk1ll/npm_sf_practice/issues"
+  },
+  "homepage": "https://github.com/onlysk1ll/npm_sf_practice#readme"
+}
