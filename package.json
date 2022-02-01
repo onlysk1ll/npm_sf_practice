@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/onlysk1ll/npm_sf_practice/issues"
   },
-  "homepage": "https://github.com/onlysk1ll/npm_sf_practice#readme"
+  "homepage": "https://github.com/onlysk1ll/npm_sf_practice#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
